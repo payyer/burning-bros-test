@@ -1,4 +1,4 @@
-# My Test Project React TypeScript with Vite
+# BurningBros Test Project
 
 ## Description
 
