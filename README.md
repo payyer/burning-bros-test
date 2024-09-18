@@ -16,12 +16,15 @@ Here is my test, which includes full functionality such as Fetch API integration
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 2. Navigate into the project directory:
+   ```bash
    cd burning-bros-test
    
-3. Install the dependencies:
+4. Install the dependencies:
+   ```bash
    npm install or yarn install
    
-4. Run Project:
+6. Run Project:
+   ```bash
    npm run dev or yarn dev
 
 ## Demo URL
